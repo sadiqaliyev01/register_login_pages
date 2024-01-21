@@ -1,14 +1,6 @@
 import 'dart:io';
 
 void main() {
-  /// 21.01.2024 ev tapsirigi:
-  /// login register proqrami yaz
-  /// register ederken melumatlari girsin (mail, password, username)
-  /// login ederken melumatlarin (username, password) dogrulugunu yoxlasin. sehv olsa yeniden input istesin
-  /// register zamani password, username, mail unvani ucun bezi mehdudiyyetler qoy
-  /// mail unvani icinde @ olmasa qebul etmesin
-  /// password ucun en az 8 character istesin, boyuk kicik herfler ve en az bir simvol teleb etsin
-  /// username ucun herf ve reqemlerden istifade olunmagini teleb etsin
 
   String mail;
   String password;
